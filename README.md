@@ -12,7 +12,7 @@ c
 
 *MENTOR* : NEELA SANTHOSH
 
-The Weather Checker Website is a simple and professional web-based tool that allows users to check real-time weather information for any country or city. Users can type the name of a country or city into the search box, and the app fetches and displays current weather details such as temperature, humidity, wind speed, and weather condition with a matching icon. This Website uses the OpenWeatherMap API to retrieve up-to-date weather data in metric units. The user interface is clean, responsive, and visually appealing, designed using HTML and CSS with a focus on simplicity and usability. The search button features a modern design with hover animations, and the layout adapts well across various screen sizes.
+The Chat Application using Socket.io is a real-time communication platform that enables users to send and receive messages instantly. Built with Node.js, Express, and Socket.io, it allows multiple users to join chat rooms and exchange messages without page reloads. Socket.io ensures smooth, bidirectional communication between the server and clients through WebSockets. The application features user connection status, message broadcasting, and a responsive interface for seamless chatting. It can be extended with authentication, emojis, and file sharing. This project demonstrates the core concept of real-time web communication and is ideal for understanding event-driven programming and socket-based networking.
 
 *OUTPUT SCREENSHOTS : *
-https://github.com/karthiikofcl07/API-INTEGRATION/issues/1#issue-3407255842
+
